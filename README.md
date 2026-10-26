@@ -25,7 +25,14 @@ A student registration form built with HTML that uses form attributes and basic 
 3. Fill in the form and click **Register** to open `submit.html`
 
 ## Output
-![Student Registration Form](home.png)
+
+**Form filling (reg)**
+
+![Form Filling](reg.png)
+
+**Successful registration (success)**
+
+![Successful Registration](success.png)
 
 ## Outcome
 - Successfully created a **Student Registration Form** using only HTML
